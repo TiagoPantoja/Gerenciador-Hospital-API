@@ -12,7 +12,7 @@ Esta é uma API REST desenvolvida com o framework Spring Boot, utilizando a ling
 - MySQL
 - FlyWay
 - Spring Security
-- Auth0
+- Auth0 JWT
 
 ## Pré-requisitos
 
